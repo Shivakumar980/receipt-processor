@@ -1,0 +1,54 @@
+2025-02-15 17:34:40 - INFO [SpringApplicationShutdownHook] o.s.b.w.e.tomcat.GracefulShutdown - Commencing graceful shutdown. Waiting for active requests to complete
+2025-02-15 17:34:41 - INFO [tomcat-shutdown] o.s.b.w.e.tomcat.GracefulShutdown - Graceful shutdown complete
+2025-02-15 17:47:41 - INFO [background-preinit] o.h.validator.internal.util.Version - HV000001: Hibernate Validator 8.0.2.Final
+2025-02-15 17:47:41 - INFO [main] c.e.d.ReceiptProcessorApplicationTests - Starting ReceiptProcessorApplicationTests using Java 23.0.2 with PID 82300 (started by shivakumar in /Users/shivakumar/Documents/receipt_processor)
+2025-02-15 17:47:41 - DEBUG [main] c.e.d.ReceiptProcessorApplicationTests - Running with Spring Boot v3.4.2, Spring v6.2.2
+2025-02-15 17:47:41 - INFO [main] c.e.d.ReceiptProcessorApplicationTests - No active profile set, falling back to 1 default profile: "default"
+2025-02-15 17:47:42 - INFO [main] o.s.b.a.e.web.EndpointLinksResolver - Exposing 15 endpoints beneath base path '/actuator'
+2025-02-15 17:47:42 - INFO [main] c.e.d.ReceiptProcessorApplicationTests - Started ReceiptProcessorApplicationTests in 1.57 seconds (process running for 2.4)
+2025-02-15 17:49:44 - INFO [background-preinit] o.h.validator.internal.util.Version - HV000001: Hibernate Validator 8.0.2.Final
+2025-02-15 17:49:44 - INFO [main] c.e.d.ReceiptProcessorApplicationTests - Starting ReceiptProcessorApplicationTests using Java 23.0.2 with PID 84176 (started by shivakumar in /Users/shivakumar/Documents/receipt_processor)
+2025-02-15 17:49:44 - DEBUG [main] c.e.d.ReceiptProcessorApplicationTests - Running with Spring Boot v3.4.2, Spring v6.2.2
+2025-02-15 17:49:44 - INFO [main] c.e.d.ReceiptProcessorApplicationTests - No active profile set, falling back to 1 default profile: "default"
+2025-02-15 17:49:45 - INFO [main] o.s.b.a.e.web.EndpointLinksResolver - Exposing 15 endpoints beneath base path '/actuator'
+2025-02-15 17:49:46 - INFO [main] c.e.d.ReceiptProcessorApplicationTests - Started ReceiptProcessorApplicationTests in 1.574 seconds (process running for 2.364)
+2025-02-15 17:59:59 - INFO [main] c.e.d.ReceiptProcessorApplicationTests - Starting ReceiptProcessorApplicationTests using Java 23.0.2 with PID 93384 (started by shivakumar in /Users/shivakumar/Documents/receipt_processor)
+2025-02-15 17:59:59 - DEBUG [main] c.e.d.ReceiptProcessorApplicationTests - Running with Spring Boot v3.4.2, Spring v6.2.2
+2025-02-15 17:59:59 - INFO [main] c.e.d.ReceiptProcessorApplicationTests - No active profile set, falling back to 1 default profile: "default"
+2025-02-15 18:00:01 - INFO [main] o.s.b.a.e.web.EndpointLinksResolver - Exposing 15 endpoints beneath base path '/actuator'
+2025-02-15 18:00:01 - INFO [main] c.e.d.ReceiptProcessorApplicationTests - Started ReceiptProcessorApplicationTests in 1.506 seconds (process running for 2.816)
+2025-02-15 18:04:16 - INFO [main] c.e.d.ReceiptProcessorApplicationTests - Starting ReceiptProcessorApplicationTests using Java 23.0.2 with PID 97211 (started by shivakumar in /Users/shivakumar/Documents/receipt_processor)
+2025-02-15 18:04:16 - DEBUG [main] c.e.d.ReceiptProcessorApplicationTests - Running with Spring Boot v3.4.2, Spring v6.2.2
+2025-02-15 18:04:16 - INFO [main] c.e.d.ReceiptProcessorApplicationTests - No active profile set, falling back to 1 default profile: "default"
+2025-02-15 18:04:17 - INFO [main] o.s.b.a.e.web.EndpointLinksResolver - Exposing 15 endpoints beneath base path '/actuator'
+2025-02-15 18:04:17 - INFO [main] c.e.d.ReceiptProcessorApplicationTests - Started ReceiptProcessorApplicationTests in 1.368 seconds (process running for 2.57)
+2025-02-15 18:09:27 - INFO [main] c.e.d.ReceiptProcessorApplicationTests - Starting ReceiptProcessorApplicationTests using Java 23.0.2 with PID 2210 (started by shivakumar in /Users/shivakumar/Documents/receipt_processor)
+2025-02-15 18:09:27 - DEBUG [main] c.e.d.ReceiptProcessorApplicationTests - Running with Spring Boot v3.4.2, Spring v6.2.2
+2025-02-15 18:09:27 - INFO [main] c.e.d.ReceiptProcessorApplicationTests - No active profile set, falling back to 1 default profile: "default"
+2025-02-15 18:09:28 - INFO [main] o.s.b.a.e.web.EndpointLinksResolver - Exposing 15 endpoints beneath base path '/actuator'
+2025-02-15 18:09:28 - INFO [main] c.e.d.ReceiptProcessorApplicationTests - Started ReceiptProcessorApplicationTests in 1.393 seconds (process running for 2.66)
+2025-02-15 18:12:20 - INFO [main] c.e.d.ReceiptProcessorApplicationTests - Starting ReceiptProcessorApplicationTests using Java 23.0.2 with PID 4825 (started by shivakumar in /Users/shivakumar/Documents/receipt_processor)
+2025-02-15 18:12:20 - DEBUG [main] c.e.d.ReceiptProcessorApplicationTests - Running with Spring Boot v3.4.2, Spring v6.2.2
+2025-02-15 18:12:20 - INFO [main] c.e.d.ReceiptProcessorApplicationTests - No active profile set, falling back to 1 default profile: "default"
+2025-02-15 18:12:21 - INFO [main] o.s.b.a.e.web.EndpointLinksResolver - Exposing 15 endpoints beneath base path '/actuator'
+2025-02-15 18:12:21 - INFO [main] c.e.d.ReceiptProcessorApplicationTests - Started ReceiptProcessorApplicationTests in 1.329 seconds (process running for 2.528)
+2025-02-15 18:17:01 - INFO [main] c.e.d.ReceiptProcessorApplicationTests - Starting ReceiptProcessorApplicationTests using Java 23.0.2 with PID 9065 (started by shivakumar in /Users/shivakumar/Documents/receipt_processor)
+2025-02-15 18:17:01 - DEBUG [main] c.e.d.ReceiptProcessorApplicationTests - Running with Spring Boot v3.4.2, Spring v6.2.2
+2025-02-15 18:17:01 - INFO [main] c.e.d.ReceiptProcessorApplicationTests - No active profile set, falling back to 1 default profile: "default"
+2025-02-15 18:17:02 - INFO [main] o.s.b.a.e.web.EndpointLinksResolver - Exposing 15 endpoints beneath base path '/actuator'
+2025-02-15 18:17:02 - INFO [main] c.e.d.ReceiptProcessorApplicationTests - Started ReceiptProcessorApplicationTests in 1.363 seconds (process running for 2.605)
+2025-02-15 18:21:53 - INFO [main] c.e.d.ReceiptProcessorApplicationTests - Starting ReceiptProcessorApplicationTests using Java 23.0.2 with PID 13448 (started by shivakumar in /Users/shivakumar/Documents/receipt_processor)
+2025-02-15 18:21:53 - DEBUG [main] c.e.d.ReceiptProcessorApplicationTests - Running with Spring Boot v3.4.2, Spring v6.2.2
+2025-02-15 18:21:53 - INFO [main] c.e.d.ReceiptProcessorApplicationTests - No active profile set, falling back to 1 default profile: "default"
+2025-02-15 18:21:55 - INFO [main] o.s.b.a.e.web.EndpointLinksResolver - Exposing 15 endpoints beneath base path '/actuator'
+2025-02-15 18:21:55 - INFO [main] c.e.d.ReceiptProcessorApplicationTests - Started ReceiptProcessorApplicationTests in 1.37 seconds (process running for 2.53)
+2025-02-15 18:24:59 - INFO [main] c.e.d.ReceiptProcessorApplicationTests - Starting ReceiptProcessorApplicationTests using Java 23.0.2 with PID 16233 (started by shivakumar in /Users/shivakumar/Documents/receipt_processor)
+2025-02-15 18:24:59 - DEBUG [main] c.e.d.ReceiptProcessorApplicationTests - Running with Spring Boot v3.4.2, Spring v6.2.2
+2025-02-15 18:24:59 - INFO [main] c.e.d.ReceiptProcessorApplicationTests - No active profile set, falling back to 1 default profile: "default"
+2025-02-15 18:25:01 - INFO [main] o.s.b.a.e.web.EndpointLinksResolver - Exposing 15 endpoints beneath base path '/actuator'
+2025-02-15 18:25:01 - INFO [main] c.e.d.ReceiptProcessorApplicationTests - Started ReceiptProcessorApplicationTests in 1.427 seconds (process running for 2.721)
+2025-02-15 20:29:35 - INFO [main] c.e.d.ReceiptProcessorApplicationTests - Starting ReceiptProcessorApplicationTests using Java 22.0.1 with PID 1185 (started by shivakumar in /Users/shivakumar/Documents/receipt_processor)
+2025-02-15 20:29:35 - DEBUG [main] c.e.d.ReceiptProcessorApplicationTests - Running with Spring Boot v3.4.2, Spring v6.2.2
+2025-02-15 20:29:35 - INFO [main] c.e.d.ReceiptProcessorApplicationTests - No active profile set, falling back to 1 default profile: "default"
+2025-02-15 20:29:36 - INFO [main] o.s.b.a.e.web.EndpointLinksResolver - Exposing 15 endpoints beneath base path '/actuator'
+2025-02-15 20:29:36 - INFO [main] c.e.d.ReceiptProcessorApplicationTests - Started ReceiptProcessorApplicationTests in 1.469 seconds (process running for 2.988)
