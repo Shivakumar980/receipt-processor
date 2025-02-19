@@ -1,4 +1,4 @@
-hesre are some incosistencies in the md file. set this up # **Receipt Processor Application**
+# **Receipt Processor Application**
 
 ## **Description:**
 
