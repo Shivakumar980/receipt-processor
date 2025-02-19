@@ -36,13 +36,17 @@ docker run -p 8080:8080 receipt-processor
 
 ## **API Documentation**
 
-Once the application is running, you can access the documentation at:
+Once the application is running, you can access the API endpoints and documentation at:
 
-[http://localhost:8080/swagger-ui.html](http://localhost:8080/swagger-ui.html)
+- **Swagger UI**:  
+   [http://localhost:8080/swagger-ui.html](http://localhost:8080/swagger-ui.html)
+  
 
-This will allow you to interact with the API endpoints for processing receipts and retrieving loyalty points.
-
+- **Swagger JSON Documentation**:  
+   [http://localhost:8080/v3/api-docs](http://localhost:8080/v3/api-docs)  
+   
 ---
+
 
 ## **Endpoints**
 
@@ -63,5 +67,6 @@ Logs are stored using **SLF4J** and **Logback** for better debugging and trackin
 ## **Tests:**
 
 To run the tests, use the following Maven command:
-bash
+```bash
 mvn test
+```
