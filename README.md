@@ -1,4 +1,4 @@
-Receipt Processor Application
+#Receipt Processor Application
 
 Description:
 
