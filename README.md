@@ -66,7 +66,7 @@ Logs are stored using **SLF4J** and **Logback** for better debugging and trackin
 
 ## **Tests:**
 
-To run the tests, use the following Maven command in a ** new terminal**:
+To run the tests, use the following Maven command in a **new terminal** :
 ```bash
 mvn test
 ```
